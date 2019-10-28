@@ -1,0 +1,7 @@
+body     { background-color : ghostwhite; }
+img      { width:100%; }
+nav      { list-style-type: none; }
+li       { list-style-type: none; color: seagreen}
+
+#navbarDropdown1 {  text-align: left;  color: white; }
+
